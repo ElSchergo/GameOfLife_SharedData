@@ -1,0 +1,67 @@
+{
+    "TestStructs": [
+        {
+            "Name" : "Glider",
+            "Points" : [
+                {"row" : 5, "column" : 8},
+                {"row" : 6, "column" : 9},
+                {"row" : 7, "column" : 7},
+                {"row" : 7, "column" : 8},
+                {"row" : 7, "column" : 9}
+            ]
+        },
+        {
+            "Name" : "Blinker",
+            "Points" : [
+                {"row" : 5, "column" : 8},
+                {"row" : 6, "column" : 8},
+                {"row" : 7, "column" : 8}
+            ]
+        },
+        {
+            "Name" : "Bipole",
+            "Points" : [
+                {"row" : 5, "column" : 8},
+                {"row" : 5, "column" : 9},
+                {"row" : 6, "column" : 8},
+                {"row" : 6, "column" : 9},
+                {"row" : 7, "column" : 10},
+                {"row" : 7, "column" : 11},
+                {"row" : 8, "column" : 10},
+                {"row" : 8, "column" : 11}
+            ]
+        },
+        {
+            "Name" : "Tripole",
+            "Points" : [
+                {"row" : 5, "column" : 8},
+                {"row" : 5, "column" : 9},
+                {"row" : 6, "column" : 8},
+                {"row" : 7, "column" : 9},
+                {"row" : 7, "column" : 11},
+                {"row" : 8, "column" : 12},
+                {"row" : 9, "column" : 11},
+                {"row" : 9, "column" : 12}
+            ]
+        },
+        {
+            "Name" : "Pentomino",
+            "Points" : [
+                {"row" : 18, "column" : 18},
+                {"row" : 18, "column" : 19},
+                {"row" : 18, "column" : 20},
+                {"row" : 19, "column" : 18},
+                {"row" : 19, "column" : 20},
+                {"row" : 20, "column" : 18},
+                {"row" : 20, "column" : 20},
+                {"row" : 22, "column" : 18},
+                {"row" : 22, "column" : 20},
+                {"row" : 23, "column" : 18},
+                {"row" : 23, "column" : 20},
+                {"row" : 24, "column" : 18},
+                {"row" : 24, "column" : 19},
+                {"row" : 24, "column" : 20}
+            ]
+        }
+    ] 
+}
