@@ -1,8 +1,8 @@
 {
-    "TestStructs": [
+    "testStructs": [
         {
-            "Name" : "Glider",
-            "Points" : [
+            "name" : "Glider",
+            "points" : [
                 {"row" : 5, "column" : 8},
                 {"row" : 6, "column" : 9},
                 {"row" : 7, "column" : 7},
@@ -11,16 +11,16 @@
             ]
         },
         {
-            "Name" : "Blinker",
-            "Points" : [
+            "name" : "Blinker",
+            "points" : [
                 {"row" : 5, "column" : 8},
                 {"row" : 6, "column" : 8},
                 {"row" : 7, "column" : 8}
             ]
         },
         {
-            "Name" : "Bipole",
-            "Points" : [
+            "name" : "Bipole",
+            "points" : [
                 {"row" : 5, "column" : 8},
                 {"row" : 5, "column" : 9},
                 {"row" : 6, "column" : 8},
@@ -32,8 +32,8 @@
             ]
         },
         {
-            "Name" : "Tripole",
-            "Points" : [
+            "name" : "Tripole",
+            "points" : [
                 {"row" : 5, "column" : 8},
                 {"row" : 5, "column" : 9},
                 {"row" : 6, "column" : 8},
@@ -45,8 +45,8 @@
             ]
         },
         {
-            "Name" : "Pentomino",
-            "Points" : [
+            "name" : "Pentomino",
+            "points" : [
                 {"row" : 18, "column" : 18},
                 {"row" : 18, "column" : 19},
                 {"row" : 18, "column" : 20},
@@ -64,8 +64,8 @@
             ]
         },
         {
-            "Name" : "LWSS",
-            "Points" : [
+            "name" : "LWSS",
+            "points" : [
                 {"row" : 18, "column" : 3},
                 {"row" : 18, "column" : 4},
                 {"row" : 18, "column" : 5},
