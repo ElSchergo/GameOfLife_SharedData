@@ -62,6 +62,20 @@
                 {"row" : 24, "column" : 19},
                 {"row" : 24, "column" : 20}
             ]
+        },
+        {
+            "Name" : "LWSS",
+            "Points" : [
+                {"row" : 18, "column" : 3},
+                {"row" : 18, "column" : 4},
+                {"row" : 18, "column" : 5},
+                {"row" : 18, "column" : 5},
+                {"row" : 19, "column" : 2},
+                {"row" : 19, "column" : 6},
+                {"row" : 20, "column" : 6},
+                {"row" : 21, "column" : 2},
+                {"row" : 21, "column" : 5}
+            ]
         }
     ] 
 }
